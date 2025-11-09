@@ -1,0 +1,21 @@
+# === Backend (Spring Boot) ===
+target/
+*.log
+*.class
+*.jar
+*.war
+*.iml
+/.idea/
+backend/.idea/
+HELP.md
+
+# === Frontend (React) ===
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+.npm/
+.env
+
+# === System files ===
+.DS_Store
+Thumbs.db
